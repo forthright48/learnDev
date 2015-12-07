@@ -11,7 +11,10 @@ Using $broadcast we can create custom events. Using $rootScope directly is bad p
 Short and simple tutorial to adding interceptors to angularJS.
 
 1. [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)  
-Learned about using express-jwt module to authenticate routes and verifying tokens. Also, it has code on how to attach interceptors to angularjs requests.
+Using express-jwt module to authenticate routes and verifying tokens. Also, it has code on how to attach interceptors to angularjs requests.
+
+1. [AngularJS Best Practices and Tips by Toptal Developers](http://www.toptal.com/angular-js/tips-and-practices)  
+How to set watchers, One time binding, making ng-click conditional and more.
 
 # BootStrap
 
@@ -58,3 +61,15 @@ What happens if someone steals JWT from browser and uses from someother place?
 
 1. [Invalidating JSON Web Tokens](http://stackoverflow.com/questions/21978658/invalidating-json-web-tokens/23089839#23089839)  
 How to invalidate a JWT once user logs out. Some tips on logging out users safely. Keeping JWT expiry time short and regularly updating the token sounds good to me.
+
+# Testing
+
+1. [Unit testing with Karma and Jasmine for AngularJS](https://blog.logentries.com/2015/01/unit-testing-with-karma-and-jasmine-for-angularjs/)  
+A simple tutorial on importance of testing from beginng. Suggested method for testing is to use Karma + Jasmine.
+
+1. [The Difference Between TDD and BDD](https://joshldavis.com/2013/05/27/difference-between-tdd-and-bdd/)  
+I thought there would be significant difference. They seem same to me. BDD looks nice since it sounds like normal sentence.
+
+# Uncategorized
+
+1. [Top 18 Most Common AngularJS Mistakes That Developers Make](http://www.toptal.com/angular-js/top-18-most-common-angularjs-developer-mistakes)  

@@ -1,6 +1,13 @@
 # Change Log
 Change Log documents all the changes in this project.
 
+# 0.0.2 - 2015-12-07
+## Added
+- Unit testing with Karma and Jasmine for AngularJS
+- The Difference Between TDD and BDD
+- AngularJS Best Practices and Tips by Toptal Developers
+- Top 18 Most Common AngularJS Mistakes That Developers Make
+
 # 0.0.1 - 2015-12-06
 ## Added
 - Immediately-Invoked Function Expression (IIFE)
