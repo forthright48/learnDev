@@ -1,6 +1,16 @@
 # Change Log
 Change Log documents all the changes in this project.
 
+# 0.0.3 - 2015-12-08
+## Added
+- Cross-reference (named anchor) in markdown
+- How to change bower's default components folder?
+- What is Grunt Wiredep?
+- Node.js, Require and Exports
+- The HUGE Grunt.js Guide to a Better Frontend Workflow (Part 1: Coding)
+- <%= yeoman.app %> and <%=yeoman.dist %> variables for a gruntfile
+- Angular Function Declarations, Function Expressions, and Readable Code
+
 # 0.0.2 - 2015-12-07
 ## Added
 - Unit testing with Karma and Jasmine for AngularJS
