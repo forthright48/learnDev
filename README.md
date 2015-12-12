@@ -19,6 +19,9 @@ How to set watchers, One time binding, making ng-click conditional and more.
 1. [Angular Function Declarations, Function Expressions, and Readable Code](http://www.johnpapa.net/angular-function-declarations-function-expressions-and-readable-code/)  
 We spend more time reading our code than writing them. Using function declaration approach, we can keep our exposed variables at top and hide implementation below.
 
+1. [Route Resolve and Controller Activate in AngularJS](http://www.johnpapa.net/route-resolve-and-controller-activate-in-angularjs/)  
+Where to put the logic that populates variables of controller. Using `activate()` vs route resolve.
+
 # BootStrap
 
 1. [Vertical Align Columns in Row in BootStrap](http://stackoverflow.com/questions/28077398/twitter-bootstrap-3-vertical-align-columns-in-a-row-middle)  
@@ -29,13 +32,20 @@ The code snippet for `v.center` works like a charm.
 1. [Why can I execute code after `res.send`?](http://stackoverflow.com/questions/16180502/node-express-why-can-i-execute-code-after-res-send)  
 `res.send()` simply closes the response. The function is free to continue as long as it does not attempt to call methods on `res`. So, better to use `return` where we want things to stop.
 
-#JavaScript
+# HTTP
+
+1. [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)  What should be the http status code for a response?
+
+# JavaScript
 
 1. [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)  
 Beautiful explanation on how to use closure to create IIFE along with reasons why it has that particular syntax.
 
 1. [Promise Anti Patterns](http://taoofcode.net/promise-anti-patterns/)  
 Lots of anti-patterns for Promise.
+
+1. [How to Encode and Decode Strings with Base64 in JavaScript](https://scotch.io/quick-tips/how-to-encode-and-decode-strings-with-base64-in-javascript)  
+Sometimes API sends their content base64 encoded, so decodnig them is necessary.
 
 # Markdown
 
@@ -54,6 +64,9 @@ A simple tutorial that shows how to use jsonwebtoken module to use JWT with API 
 
 1. [Node.js, Require and Exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)  
 NodeJS by default isolates codes inside a file from the global space. We need to use `module.exports` explicitly to tell node what we want to share and `require()` to get what we want.
+
+1. [jsonwebtoken doesn't expire](http://stackoverflow.com/questions/28874915/jsonwebtoken-doesnt-expire)  
+Dumping user info in an object before signing does the trick.
 
 # Security
 
