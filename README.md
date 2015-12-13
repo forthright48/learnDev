@@ -2,27 +2,6 @@
 
 While learning development, a beginner needs to cover lots of topics. As a beginner myself, I decided to track the useful resources in one place.
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-# Table of Contents
-
-- [AngularJS](#angularjs)
-- [BootStrap](#bootstrap)
-- [Express](#express)
-- [HTTP](#http)
-- [JavaScript](#javascript)
-- [Markdown](#markdown)
-- [MongoDB](#mongodb)
-- [Node.js](#nodejs)
-- [Security](#security)
-- [Testing](#testing)
-- [Tools](#tools)
-  - [Bower](#bower)
-  - [Grunt](#grunt)
-- [Uncategorized](#uncategorized)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # AngularJS
 
 1. [Why do we use $rootScope.$broadcast in AngularJS?](http://stackoverflow.com/questions/24830679/why-do-we-use-rootscope-broadcast-in-angularjs/24831979#24831979)  
@@ -53,6 +32,11 @@ The code snippet for `v.center` works like a charm.
 1. [Why can I execute code after `res.send`?](http://stackoverflow.com/questions/16180502/node-express-why-can-i-execute-code-after-res-send)  
 `res.send()` simply closes the response. The function is free to continue as long as it does not attempt to call methods on `res`. So, better to use `return` where we want things to stop.
 
+# HTML
+
+1. [HTML5 History API ](http://diveintohtml5.info/history.html)  
+Changing browser location without refreshing the full page.
+
 # HTTP
 
 1. [Choosing an HTTP Status Code — Stop Making It Hard](http://racksburg.com/choosing-an-http-status-code/)  What should be the http status code for a response?
@@ -67,6 +51,10 @@ Lots of anti-patterns for Promise.
 
 1. [How to Encode and Decode Strings with Base64 in JavaScript](https://scotch.io/quick-tips/how-to-encode-and-decode-strings-with-base64-in-javascript)  
 Sometimes API sends their content base64 encoded, so decodnig them is necessary.
+
+# JQuery
+
+1. [Automatic Table of Contents](https://css-tricks.com/automatic-table-of-contents/)
 
 # Markdown
 

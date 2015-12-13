@@ -1,6 +1,9 @@
 # Change Log
 Change Log documents all the changes in this project.
 
+## 0.0.5 - 2015-12-14
+- Automatic Table of Contents
+
 ## 0.0.4 - 2015-12-09 - 2015-12-10
 ### Added
 - jsonwebtoken doesn't expire
