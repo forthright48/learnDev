@@ -2,6 +2,27 @@
 
 While learning development, a beginner needs to cover lots of topics. As a beginner myself, I decided to track the useful resources in one place.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+# Table of Contents
+
+- [AngularJS](#angularjs)
+- [BootStrap](#bootstrap)
+- [Express](#express)
+- [HTTP](#http)
+- [JavaScript](#javascript)
+- [Markdown](#markdown)
+- [MongoDB](#mongodb)
+- [Node.js](#nodejs)
+- [Security](#security)
+- [Testing](#testing)
+- [Tools](#tools)
+  - [Bower](#bower)
+  - [Grunt](#grunt)
+- [Uncategorized](#uncategorized)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # AngularJS
 
 1. [Why do we use $rootScope.$broadcast in AngularJS?](http://stackoverflow.com/questions/24830679/why-do-we-use-rootscope-broadcast-in-angularjs/24831979#24831979)  
