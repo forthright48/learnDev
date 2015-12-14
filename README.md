@@ -22,6 +22,12 @@ We spend more time reading our code than writing them. Using function declaratio
 1. [Route Resolve and Controller Activate in AngularJS](http://www.johnpapa.net/route-resolve-and-controller-activate-in-angularjs/)  
 Where to put the logic that populates variables of controller. Using `activate()` vs route resolve.
 
+1. [$scope vs scope](https://thinkster.io/a-better-way-to-learn-angularjs/scope-vs-scope)  
+What's the difference between $scope in controller and scope in link function of directive.
+
+1. [Accessing The View-Model Inside The Link Function When Using Controller-As In AngularJS](http://www.bennadel.com/blog/2896-accessing-the-view-model-inside-the-link-function-when-using-controller-as-in-angularjs.htm)  
+How to access controller from link function of directive.
+
 # BootStrap
 
 1. [Vertical Align Columns in Row in BootStrap](http://stackoverflow.com/questions/28077398/twitter-bootstrap-3-vertical-align-columns-in-a-row-middle)  
