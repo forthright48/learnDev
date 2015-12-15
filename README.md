@@ -28,6 +28,12 @@ What's the difference between $scope in controller and scope in link function of
 1. [Accessing The View-Model Inside The Link Function When Using Controller-As In AngularJS](http://www.bennadel.com/blog/2896-accessing-the-view-model-inside-the-link-function-when-using-controller-as-in-angularjs.htm)  
 How to access controller from link function of directive.
 
+1. [Insert HTML into View](http://stackoverflow.com/questions/9381926/angularjs-insert-html-into-view)  
+HTML is rendered as text in {{}}. Need to use ng-bind-html after making it trusted using $sce.
+
+1. [How to get dynamic content working in angularjs](http://stackoverflow.com/questions/11771513/angularjs-jquery-how-to-get-dynamic-content-working-in-angularjs)  
+When dynamic content is inserted using DOM manipulation, angular no longer watches them. We need to $compile them before adding.
+
 # BootStrap
 
 1. [Vertical Align Columns in Row in BootStrap](http://stackoverflow.com/questions/28077398/twitter-bootstrap-3-vertical-align-columns-in-a-row-middle)  

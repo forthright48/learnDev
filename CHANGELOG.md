@@ -5,6 +5,8 @@ Change Log documents all the changes in this project.
 - Automatic Table of Contents
 - $scope vs scope
 - Accessing The View-Model Inside The Link Function When Using Controller-As In AngularJS
+- Insert HTML into View
+- How to get dynamic content working in angularjs
 
 ## 0.0.4 - 2015-12-09 - 2015-12-10
 ### Added
